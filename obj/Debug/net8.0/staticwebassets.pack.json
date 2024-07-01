@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\audio\\audio-profesor.mpeg",
+      "PackagePath": "staticwebassets\\audio\\audio-profesor.mpeg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\img\\abierta.jpeg",
+      "PackagePath": "staticwebassets\\img\\abierta.jpeg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\img\\boveda.jpg",
+      "PackagePath": "staticwebassets\\img\\boveda.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\img\\inundado.jpeg",
+      "PackagePath": "staticwebassets\\img\\inundado.jpeg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\img\\oficina.jfif",
+      "PackagePath": "staticwebassets\\img\\oficina.jfif"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\SalaEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalaEscape.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SalaEscape.props",
+      "PackagePath": "build\\SalaEscape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SalaEscape.props",
+      "PackagePath": "buildMultiTargeting\\SalaEscape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SalaEscape.props",
+      "PackagePath": "buildTransitive\\SalaEscape.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

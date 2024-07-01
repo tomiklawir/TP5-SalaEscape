@@ -9,7 +9,7 @@ class Escape
     }
 
     private static void InicializarJuego(){
-        string[] incognitasSalas = {"2586", "MAGNATE", "LUMOS", "207138920"};
+        string[] incognitasSalas = {"2586", "MAGNATE", "LUMOS", "914221441"};
     }
 
     public static int GetEstadoJuego(){
