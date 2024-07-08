@@ -19,7 +19,11 @@ public class HomeController : Controller
     }
     public IActionResult Tutorial()
     {
-        return View();
+        return View("tutorial");
+    }
+    public IActionResult creditos()
+    {
+        return View("creditos");
     }
     public IActionResult Habitacion(int sala, string clave)
     {
@@ -39,8 +43,10 @@ public class HomeController : Controller
             return View("Habitacion" + sala);
         }
     }
+    
     public IActionResult Comenzar()
     {
         return View("Oficina");
     }
+    
 }

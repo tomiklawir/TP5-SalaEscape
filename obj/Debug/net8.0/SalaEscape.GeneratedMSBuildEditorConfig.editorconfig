@@ -18,8 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\ORT\4ID\Prog\SalaEscape
 build_property._RazorSourceGeneratorDebug = 
 
+[Z:/ORT/4ID/Prog/SalaEscape/Views/Home/creditos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjcmVkaXRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/ORT/4ID/Prog/SalaEscape/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/ORT/4ID/Prog/SalaEscape/Views/Home/Oficina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPZmljaW5hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/ORT/4ID/Prog/SalaEscape/Views/Home/tutorial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0dXRvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/ORT/4ID/Prog/SalaEscape/Views/Shared/_Layout.cshtml]

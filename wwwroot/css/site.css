@@ -1,17 +1,33 @@
 html {
   font-size: 14px;
   min-height: 100%;
+  background-color: brown;
 }
-
+div{
+  font-family: Georgia;
+}
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
 }
-
+div img{
+  width: 30%;
+  display: flex;
+  margin: 2%;
+  margin-left: 33%;
+  justify-content: center;
+}
 body {
   margin: 10px;
   padding: 10px;
+}
+div a{
+  display: flex ;
+  
+}
+.principal{
+  text-align: center;
 }
 
 
